@@ -17,11 +17,12 @@ Creación de un archivo 1.txt: touch 1.txt
 Creación de la rama v0.1: git tag -a v0.1 -m "Creación del tag v0.1"
 
 Subida del tag v0.1 al repositorio remoto: git push origin v0.1
+***
 
- |Nombre                 | Github                        |   
- |----------------------:|:-----------------------------:|
- |Nombre del compañero 1 | [Link](https://www.google.com)|
- |----------------------:|:-----------------------------:|
- |Nombre del compañero 2 | [Link](https://www.google.com)|
- |----------------------:|:-----------------------------:|
- |Nombre del compañero 3 | [Link](https://www.google.com)|
+ |Nombre                             | Github                                       |   
+ |------------------------------|------------------------------------|
+ |Nombre del compañero 1        | [Link](https://www.google.com)     |
+ |                                                                   |                                                  |
+ |Nombre del compañero 2        | [Link](https://www.google.com)     |
+ |                                                                   |                                                  |
+ |Nombre del compañero 3        | [Link](https://www.google.com)     |
