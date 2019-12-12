@@ -1,6 +1,6 @@
 # campusciff
 Actividades Curso Git
-
+***
 Clonar el repositorio: git clone https://github.com/carlosei98/campusciff.git
 Hacer el commit inicial: git commit -m "Subida inical del README.md"
 Crear archivo privado txt: touch privado.txt
@@ -9,6 +9,7 @@ Hacer que estos dos cambios sean ignorados por Git: Creamos un .gitignore, dentr
 Creación de un archivo 1.txt: touch 1.txt
 Creación de la rama v0.1: git tag -a v0.1 -m "Creación del tag v0.1"
 Subida del tag v0.1 al repositorio remoto: git push origin v0.1
+***
   Nombre                  Github
   ======================================================
   Nombre del compañero 1  [Link](https://www.google.com)
